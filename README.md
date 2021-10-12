@@ -7,6 +7,11 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
+Course Description: Introduction to Computer Science aims to develop computational thinking and build student excitement
+about computing. In addition to learning about programming and algorithms, students build career awareness about
+computing skills in all fields. Students also improve their knowledge and skill with regard to ethics, safety, and
+security on the Internet.
+
 Describe your course including the name, description, and grade level
 
 ### Situation
