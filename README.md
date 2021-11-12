@@ -7,12 +7,14 @@ Provide a brief description of the purpose of your educational technology Plan
 
 ### Course
 
-Course Description: Introduction to Computer Science for middle school is a an elective course designed to develop computational thinking and build student excitement
+Course Description: Introduction to Computer Science for grade nine will be an elective course designed to develop computational thinking and build student excitement
 about computing. In addition to learning about programming and algorithms, students build career awareness about
 computing skills in all fields. Students also improve their knowledge and skill with regard to ethics, safety, and
 security on the Internet.
 
 ### Situation
+
+I teach at Paradise High School in Paradise, California.  Most of our town was destroyed in the Camp Fire on November 8, 2018. Along with the emotional scars, the population was also devastated financially. Families live in trailers on their lots or other means of sub-par housing.  Many do not have internet access.  All work expectations will be for school hours on site.
 
 Provide relevant details about your course and/or school that will influence the
 decisions in the plan. What assets and constraints do you face? What is the
