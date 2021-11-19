@@ -43,6 +43,23 @@ installed as well as any online services.
 
 ### Hardware Specifications
 
+Student Computers:
+Chromebook 3100 2-in-1 Education
+Processor
+Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
+
+Display
+11.6" HD 1366 x 768 WVA 16:9 Touch with Corning® Gorilla® Glass NBT, Camera & Microphone
+
+Memory
+4 GB, LPDDR4, 2400 MHz, integrated
+
+Hard Drive
+32 GB eMMC, on-board
+
+Teacher Computer:
+
+
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
 
