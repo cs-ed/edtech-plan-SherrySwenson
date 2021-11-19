@@ -26,6 +26,17 @@ context of your class, considering demographic and technical resources?
 
 ### Software Specifications
 
+Google Classroom
+
+
+Clever
+The Clever browser extension is the key to making sure your SSO (Saved Passwords) applications work properly whether students are accessing Clever from school, home, or both.
+
+CodeHS: Comprehensive Coding Platform for Middle School and High School
+CodeHS is a comprehensive platform for helping schools teach computer science by providing web-based curriculum, teacher tools and resources, and professional development. With CodeHS, teachers have access all of the tools they need in one place, such as a customizable gradebook, progress tracking, and detailed lesson plans.
+
+Aeries
+
 Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
