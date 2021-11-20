@@ -1,4 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5862778&assignment_repo_type=AssignmentRepo)
+
+![alt text](IMG_1703.jpg)
 # Educational Technology Plan
 
 The purpose of my educational technology plan is to design a diagram for a future introductory computer science course to be taught as an elective for grade nine. 
@@ -45,25 +47,32 @@ installed as well as any online services.
 
 Student Computers:
 Chromebook 3100 2-in-1 Education
+
 Processor
 Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
-
 Display
 11.6" HD 1366 x 768 WVA 16:9 Touch with Corning® Gorilla® Glass NBT, Camera & Microphone
-
 Memory
 4 GB, LPDDR4, 2400 MHz, integrated
-
 Hard Drive
 32 GB eMMC, on-board
 
 Teacher Computer:
+Dell Latitude 5510 Laptop
 
+Display15.6”, Full HD (1920 x 1080), IPS
+panel 1BOE NV156FHM-N4H (BOE0869)Color accuracy 6.5 -> 4.2
+HDD/SSD1TB SSD NVMe + 1TB HDD, 7200 rpm
+M.2 Slot1x 2280 PCIe NVMe 3.0 x4  See photo
+RAM2x 16GB DDR4, 2666 MHz
+OSWindows 10 Home
 
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
 
 ### Application
+
+The technology listed above is what the district currently has in stock and what is available in my classroom. Since this is a proposed class and not a currently functioning course, there is a possibly of obtaining other computers, in the future, if the need dictated it and if the district had the ability to make the purchase.  For now, I believe the chromebooks will be suitable for students to access beginning course materials.  I will be using accesssible websites and will not require specific machine requirements.  Some students may have computers at home, but many will not. Internet service has not been completely restored in an effective manner throughout town, so even if students have computers, internet service is not reliable.  For these reasons, the expectations are that all work can be done in class. 
 
 Describe how you will use the above technologies in the class, including
 in-class activities, homework, assignments, and assessment. Justify the use
