@@ -44,7 +44,8 @@ installed as well as any online services.
 ### Hardware Specifications
 
 Student Computers: (30 in classroom cart)
-Chromebook 3100 2-in-1 Education
+
+**Chromebook 3100 2-in-1 Education**
 
 - Processor Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
 - Display 11.6" HD 1366 x 768 
@@ -56,21 +57,19 @@ Chromebook 3100 2-in-1 Education
 - 32 GB eMMC, on-board
 
 Teacher Computer: (1)
-Dell Latitude 5510 Laptop
 
-Display15.6”
-Full HD (1920 x 1080)
-IPS panel 1BOE NV156FHM-N4H (BOE0869)
-Color accuracy 6.5 -> 4.2
-HDD/SSD1TB SSD NVMe + 1TB HDD
-7200 rpm
-M.2 Slot1x 2280 PCIe NVMe 3.0 x4
-RAM2x 16GB DDR4
-2666 MHz
-OSWindows 10 Home
+**Dell Latitude 5510 Laptop**
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+- Display15.6”
+- Full HD (1920 x 1080)
+- IPS panel 1BOE NV156FHM-N4H (BOE0869)
+- Color accuracy 6.5 -> 4.2
+- HDD/SSD1TB SSD NVMe + 1TB HDD
+- 7200 rpm
+- M.2 Slot1x 2280 PCIe NVMe 3.0 x4
+- RAM2x 16GB DDR4
+- 2666 MHz
+- OSWindows 10 Home
 
 ### Application
 
