@@ -10,17 +10,14 @@ The purpose of my educational technology plan is to design a diagram for a futur
 ### Course
 
 Course Description: Introduction to Computer Science for grade nine will be an elective course designed to develop computational thinking and build student excitement
-about computing. In addition to learning about programming and algorithms, students build career awareness about
-computing skills in all fields. Students also improve their knowledge and skill with regard to ethics, safety, and
+about computing. In addition to learning about programming and algorithms, students will build career awareness about
+computing skills that can be applicable to various fields. Students will also improve their knowledge and skill with regard to ethics, safety, and
 security on the Internet.
 
 ### Situation
 
-I teach at Paradise High School in Paradise, California.  Most of our town was destroyed in the Camp Fire on November 8, 2018. Along with the emotional scars, the population was also devastated financially. Families live in trailers on their empty home lots or reside in other means of sub-par housing.  Many do not have internet access or computers.  All work expectations will be for school hours on campus.
+I teach at Paradise High School in Paradise, California - located in Butte County. Most of our town was destroyed in the Camp Fire on November 8, 2018. Along with the emotional scars, the population was also devastated financially. Many families still live in trailers on their empty home lots or reside in other means of sub-par housing while rebuilding their homes or waiting to do so. Many do not have internet access or computers.  All work expectations for this course will be for school hours on campus.
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
 
 ## Plan
 
