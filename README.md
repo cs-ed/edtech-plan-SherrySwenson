@@ -43,7 +43,7 @@ installed as well as any online services.
 
 ### Hardware Specifications
 
-Student Computers: (30 in classroom cart)
+####Student Computers: (30 in classroom cart)
 
 **Chromebook 3100 2-in-1 Education**
 
@@ -56,7 +56,7 @@ Student Computers: (30 in classroom cart)
 - 2400 MHz integrated Hard Drive
 - 32 GB eMMC, on-board
 
-Teacher Computer: (1)
+####Teacher Computer: (1)
 
 **Dell Latitude 5510 Laptop**
 
