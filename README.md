@@ -23,20 +23,17 @@ I teach at Paradise High School in Paradise, California - located in Butte Count
 
 ### Software Specifications
 
-Google Classroom
+Google Classroom: Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences.
 
+Scratch: Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing.
 
-Clever
+Clever:
 The Clever browser extension is the key to making sure your SSO (Saved Passwords) applications work properly whether students are accessing Clever from school, home, or both.
 
-CodeHS: Comprehensive Coding Platform for Middle School and High School
-CodeHS is a comprehensive platform for helping schools teach computer science by providing web-based curriculum, teacher tools and resources, and professional development. With CodeHS, teachers have access all of the tools they need in one place, such as a customizable gradebook, progress tracking, and detailed lesson plans.
+CodeHS: CodeHS is a comprehensive platform for helping schools teach computer science by providing web-based curriculum, teacher tools and resources, and professional development. With CodeHS, teachers have access all of the tools they need in one place, such as a customizable gradebook, progress tracking, and detailed lesson plans.
 
-Aeries
+Aeries: Aeries’ robust gradebook allows educators to spend more time teaching and less time doing paperwork.
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
 
 ### Hardware Specifications
 
