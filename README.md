@@ -72,9 +72,9 @@ installed as well as any online services.
 
 The technology listed above is what the district currently has in stock and what is available in my classroom. Since this is a proposed class and not a currently functioning course, there is a possibly of obtaining other computers, in the future, if the need dictated it and if the district had the ability to make the purchase.  For now, I believe the chromebooks will be suitable for students to access beginning course materials.  I will be using accesssible websites and will not require specific machine requirements.  Some students may have computers at home, but many will not. Internet service has not been completely restored in an effective manner throughout town, so even if students have computers, internet service is not reliable.  For these reasons, the expectations are that all work can be done in class. 
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+It would be important, in a new computer science course, to generate interest from the outset.  While beginning with the basics of terminology, ethics, and safety, I would also incorporate short and engaging Scratch assignments.  Scratch will allow visual learners to have an immediate sense of what they are creating and provide a platform that is easy to troubleshoot.  The final section of the course will be conducted in Python as students begin to scaffold on the terminology and skills they've learned and built in the early sections of the course.
+
+On the teacher end, clarity of instruction and sufficient modeling will be key from the start.  Most students will not have any background in computer science and even the terms used will be unfamiliar.  We will work through the initial projects step by step together.  Besides class instruction, I will provide video tutorials and fact sheets.  Feedback during the projects will be imperative so that students may recognize problems and edit along the way.  Class assignments will be listed on Google Classroom and grades will be transferred to Aeries.  Students and parents will have access to both of those platforms as well.
 
 ### Impacts
 
