@@ -81,7 +81,5 @@ in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+It is important that all students have the ability to learn in this course. When we were on distance learning, students were able to check out a Chromebook to use at home.  When we returned to campus, those Chromebooks were turned back into the district. Many students do not have a personal computer. For these reasons, I will be conducting all instruction, modeling, work time, and assessments within the class period on campus. If we were to go back on distance learning, the district would again check out Chromebooks for students to use at home.  In that scenario, class instruction would occur via scheduled Zoom sessions and assignments would be listed and linked on Google Classroom (as they would be for in-person instruction as well.)
+
