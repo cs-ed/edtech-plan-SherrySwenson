@@ -3,9 +3,7 @@
 ![alt text](IMG_1703.jpg)
 # Educational Technology Plan
 
-The purpose of my educational technology plan is to design a diagram for a future introductory computer science course to be taught as an elective for **grade nine**. 
-
-Provide a brief description of the purpose of your educational technology Plan
+The purpose of my educational technology plan is to design a diagram for a future introductory computer science course to be taught as an elective for **grade nine**. Currently, freshmen take an Integrated Technology / Career Education hybrid course.  The idea is that a new computer science course would be an elective course for those students interested in sampling or beginning a path toward a computer science pathway.
 
 ## Context
 
@@ -45,26 +43,30 @@ installed as well as any online services.
 
 ### Hardware Specifications
 
-Student Computers:
+Student Computers: (30 in classroom cart)
 Chromebook 3100 2-in-1 Education
 
-Processor
-Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
-Display
-11.6" HD 1366 x 768 WVA 16:9 Touch with Corning® Gorilla® Glass NBT, Camera & Microphone
-Memory
-4 GB, LPDDR4, 2400 MHz, integrated
-Hard Drive
+- First item Processor Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
+Display 11.6" HD 1366 x 768 
+WVA 16:9 Touch with Corning® Gorilla® Glass NBT
+Camera & Microphone
+Memory 4 GB
+LPDDR4
+2400 MHz integrated Hard Drive
 32 GB eMMC, on-board
 
-Teacher Computer:
+Teacher Computer: (1)
 Dell Latitude 5510 Laptop
 
-Display15.6”, Full HD (1920 x 1080), IPS
-panel 1BOE NV156FHM-N4H (BOE0869)Color accuracy 6.5 -> 4.2
-HDD/SSD1TB SSD NVMe + 1TB HDD, 7200 rpm
-M.2 Slot1x 2280 PCIe NVMe 3.0 x4  See photo
-RAM2x 16GB DDR4, 2666 MHz
+Display15.6”
+Full HD (1920 x 1080)
+IPS panel 1BOE NV156FHM-N4H (BOE0869)
+Color accuracy 6.5 -> 4.2
+HDD/SSD1TB SSD NVMe + 1TB HDD
+7200 rpm
+M.2 Slot1x 2280 PCIe NVMe 3.0 x4
+RAM2x 16GB DDR4
+2666 MHz
 OSWindows 10 Home
 
 Describe the hardware requirements for your class. Provide specific requirements
