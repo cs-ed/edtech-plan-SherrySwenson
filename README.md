@@ -3,7 +3,7 @@
 ![alt text](IMG_1703.jpg)
 # Educational Technology Plan
 
-The purpose of my educational technology plan is to design a diagram for a future introductory computer science course to be taught as an elective for grade nine. 
+The purpose of my educational technology plan is to design a diagram for a future introductory computer science course to be taught as an elective for **grade nine**. 
 
 Provide a brief description of the purpose of your educational technology Plan
 
