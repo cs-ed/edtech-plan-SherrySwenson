@@ -47,13 +47,13 @@ Student Computers: (30 in classroom cart)
 Chromebook 3100 2-in-1 Education
 
 - First item Processor Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
-Display 11.6" HD 1366 x 768 
-WVA 16:9 Touch with Corning® Gorilla® Glass NBT
-Camera & Microphone
-Memory 4 GB
-LPDDR4
-2400 MHz integrated Hard Drive
-32 GB eMMC, on-board
+- Second itemDisplay 11.6" HD 1366 x 768 
+- Third itemWVA 16:9 Touch with Corning® Gorilla® Glass NBT
+- Fourth itemCamera & Microphone
+- Fifth itemMemory 4 GB
+- Sixth itemLPDDR4
+- Seventh item2400 MHz integrated Hard Drive
+- Eighth item32 GB eMMC, on-board
 
 Teacher Computer: (1)
 Dell Latitude 5510 Laptop
