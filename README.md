@@ -1,4 +1,4 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5862778&assignment_repo_type=AssignmentRepo)
+/*9[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5862778&assignment_repo_type=AssignmentRepo)
 
 ![alt text](IMG_1703.jpg)
 # Educational Technology Plan
@@ -23,7 +23,7 @@ I teach at Paradise High School in Paradise, California - located in Butte Count
 
 ### Software Specifications
 
-Due to hardware limitations, the course will be taught using entirely web-based platforms.  The classroom is limited to chromebooks, so I have chosen web-based platforms with limit requirements for accessibility. The following are the specification of each.
+Due to hardware limitations, the course will be taught using entirely web-based platforms.  The classroom is currently limited to chromebooks, so I have chosen web-based platforms with limited8888 requirements for accessibility. The following are the specification of each.
 
 #### Google Classroom: 
 Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences. 
