@@ -35,6 +35,13 @@ Google Classroom supports the following browsers:
 #### Scratch: 
 Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing.
 
+Scratch supports the following browsers:
+
+- Chrome 63+ or Mobile Chrome 63+
+- Edge 15+
+- Firefox 57+
+- Safari 11+ or Mobile Safari 11+
+
 #### Clever:
 The Clever browser extension is the key to making sure your SSO (Saved Passwords) applications work properly whether students are accessing Clever from school, home, or both.
 
