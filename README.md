@@ -24,7 +24,13 @@ I teach at Paradise High School in Paradise, California - located in Butte Count
 ### Software Specifications
 
 #### Google Classroom: 
-Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences.
+Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences. 
+
+Google Classroom supports the following browsers:
+
+- Chrome 
+- Firefox 
+- Safari
 
 #### Scratch: 
 Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing.
@@ -44,7 +50,7 @@ Browsers:
 
 - Chrome
 - Microsoft Edge
-- Mozilla Firefox
+- Firefox
 
 CodeHS: CodeHS is a comprehensive platform for helping schools teach computer science by providing web-based curriculum, teacher tools and resources, and professional development. With CodeHS, teachers have access all of the tools they need in one place, such as a customizable gradebook, progress tracking, and detailed lesson plans.
 
