@@ -34,9 +34,9 @@ Clever supports the following operating systems and browsers:
 
 Devices
 
--Microsoft Windows
--MacOS
--Chrome OS (Chromebooks)
+- Microsoft Windows
+- MacOS
+- Chrome OS (Chromebooks)
 Browsers: 
 
 -Chrome
@@ -54,12 +54,9 @@ Aeries: Aeries’ robust gradebook allows educators to spend more time teaching 
 
 **Chromebook 3100 2-in-1 Education**
 
-- Processor Intel Celeron N4020 (Dual Core, up to 2.8GHz, 4M Cache, 6W)
-- Display 11.6" HD 1366 x 768 
-- WVA 16:9 Touch with Corning® Gorilla® Glass NBT
-- Camera & Microphone
-- Memory 4 GB
-- LPDDR4
+- Intel Celeron N4020
+- 4GB 2400MHz LPDDR4 Non-ECC
+- 
 - 2400 MHz integrated Hard Drive
 - 32 GB eMMC, on-board
 
