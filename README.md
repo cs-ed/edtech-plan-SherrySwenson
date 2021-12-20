@@ -90,7 +90,7 @@ Aeries supports the following browsers:
 
 ### Hardware Specifications
 
-*Student Computers: (30 in classroom cart)*
+*Student Computers: (36 in classroom cart)*
 
 **Chromebook 3100 2-in-1 Education**
 
