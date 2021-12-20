@@ -58,22 +58,15 @@ Aeries: Aeries’ robust gradebook allows educators to spend more time teaching 
 - Intel Celeron N4020
 - 4GB 2400MHz LPDDR4 Non-ECC
 - 32GB eMMC Hard Drive
-- 
-- 32 GB eMMC, on-board
+- Chrome OS
 
 *Teacher Computer: (1)*
 
 **Dell Latitude 5510 Laptop**
 
-- Display15.6”
-- Full HD (1920 x 1080)
-- IPS panel 1BOE NV156FHM-N4H (BOE0869)
-- Color accuracy 6.5 -> 4.2
-- HDD/SSD1TB SSD NVMe + 1TB HDD
-- 7200 rpm
-- M.2 Slot1x 2280 PCIe NVMe 3.0 x4
-- RAM2x 16GB DDR4
-- 2666 MHz
+- 10th Generation Intel® Core™ i7-10810U
+- 16 GB, 1X16 GB 3200MHz DDR4 Non-ECC
+- 4GB DDR3 SDRAM 1333Mhz - 2 DIMMS
 - OSWindows 10 Home
 
 ### Application
