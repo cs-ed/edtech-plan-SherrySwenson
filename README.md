@@ -23,7 +23,7 @@ I teach at Paradise High School in Paradise, California - located in Butte Count
 
 ### Software Specifications
 
-The course will be taught using entirely web-based platforms.  The following are the specification of each.
+Due to hardware limitations, the course will be taught using entirely web-based platforms.  The classroom is limited to chromebooks, so I have chosen web-based platforms with limit requirements for accessibility. The following are the specification of each.
 
 #### Google Classroom: 
 Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences. 
