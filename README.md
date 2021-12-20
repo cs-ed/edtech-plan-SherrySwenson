@@ -23,6 +23,8 @@ I teach at Paradise High School in Paradise, California - located in Butte Count
 
 ### Software Specifications
 
+The course will be taught using entirely web-based platforms.  The following are the specification of each.
+
 #### Google Classroom: 
 Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences. 
 
@@ -59,9 +61,25 @@ Browsers:
 - Microsoft Edge
 - Firefox
 
-CodeHS: CodeHS is a comprehensive platform for helping schools teach computer science by providing web-based curriculum, teacher tools and resources, and professional development. With CodeHS, teachers have access all of the tools they need in one place, such as a customizable gradebook, progress tracking, and detailed lesson plans.
+#### CodeHS: 
+CodeHS is a comprehensive platform for helping schools teach computer science by providing web-based curriculum, teacher tools and resources, and professional development. With CodeHS, teachers have access all of the tools they need in one place, such as a customizable gradebook, progress tracking, and detailed lesson plans.
 
-Aeries: Aeries’ robust gradebook allows educators to spend more time teaching and less time doing paperwork.
+CodeHS supports the following operating systems and browsers:
+
+Devices
+
+- Microsoft Windows
+- MacOS
+- Chrome OS (Chromebooks)
+
+Browsers:
+
+- Chrome
+- Microsoft Edge
+- Firefox
+- 
+#### Aeries: 
+Aeries’ robust gradebook allows educators to spend more time teaching and less time doing paperwork.
 
 
 ### Hardware Specifications
