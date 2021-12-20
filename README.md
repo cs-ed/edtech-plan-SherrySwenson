@@ -30,6 +30,19 @@ Scratch: Scratch promotes computational thinking and problem solving skills; cre
 Clever:
 The Clever browser extension is the key to making sure your SSO (Saved Passwords) applications work properly whether students are accessing Clever from school, home, or both.
 
+Clever supports the following operating systems and browsers:
+
+Devices
+
+-Microsoft Windows
+-MacOS
+-Chrome OS (Chromebooks)
+Browsers: 
+
+-Chrome
+-Microsoft Edge
+-Mozilla Firefox
+
 CodeHS: CodeHS is a comprehensive platform for helping schools teach computer science by providing web-based curriculum, teacher tools and resources, and professional development. With CodeHS, teachers have access all of the tools they need in one place, such as a customizable gradebook, progress tracking, and detailed lesson plans.
 
 Aeries: Aeries’ robust gradebook allows educators to spend more time teaching and less time doing paperwork.
