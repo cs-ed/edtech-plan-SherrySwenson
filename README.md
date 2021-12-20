@@ -23,11 +23,13 @@ I teach at Paradise High School in Paradise, California - located in Butte Count
 
 ### Software Specifications
 
-# Google Classroom: Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences.
+#### Google Classroom: 
+Google Classroom is your all-in-one place for teaching and learning with an easy-to-use and secure tool that helps educators manage, measure, and enrich learning experiences.
 
-# Scratch: Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing.
+#### Scratch: 
+Scratch promotes computational thinking and problem solving skills; creative teaching and learning; self-expression and collaboration; and equity in computing.
 
-# Clever:
+#### Clever:
 The Clever browser extension is the key to making sure your SSO (Saved Passwords) applications work properly whether students are accessing Clever from school, home, or both.
 
 Clever supports the following operating systems and browsers:
