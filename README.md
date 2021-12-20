@@ -77,10 +77,16 @@ Browsers:
 - Chrome
 - Microsoft Edge
 - Firefox
-- 
+
 #### Aeries: 
 Aeries’ robust gradebook allows educators to spend more time teaching and less time doing paperwork.
 
+Aeries supports the following browsers:
+
+- Chrome
+- Microsoft Edge
+- Firefox
+- Safari (Mac and iOS)
 
 ### Hardware Specifications
 
@@ -112,7 +118,7 @@ On the teacher end, clarity of instruction and sufficient modeling will be key f
 
 ### Impacts
 
-It is important that all students have the ability to learn in this course. When we were on distance learning, students were able to check out a Chromebook to use at home.  When we returned to campus, those Chromebooks were turned back into the district. Many students do not have a personal computer. For these reasons, I will be conducting all instruction, modeling, work time, and assessments within the class period on campus. If we were to go back on distance learning, the district would again check out Chromebooks for students to use at home.  In that scenario, class instruction would occur via scheduled Zoom sessions and assignments would be listed and linked on Google Classroom (as they would be for in-person instruction as well.)
+It is imporfftant that all students have the ability to learn in this course. When we were on distance learning, students were able to check out a Chromebook to use at home.  When we returned to campus, those Chromebooks were turned back into the district. Many students do not have a personal computer. For these reasons, I will be conducting all instruction, modeling, work time, and assessments within the class period on campus. If we were to go back on distance learning, the district would again check out Chromebooks for students to use at home.  In that scenario, class instruction would occur via scheduled Zoom sessions and assignments would be listed and linked on Google Classroom (as they would be for in-person instruction as well.)
 
 Paradise has endured quite a few tough years.  After the fire in 2018, the community worked very hard to rally back.  Because of the widespread devastation, rebuilding was slow and many were still in temporary housing situations when Covid hit.  This added an additional financial blow to the town and its residents.  Still, houses are currently being built and the townspeople are resilient.  Our students deserve a computer science education that will give them the skills they need to survive and thrive as they move through high school, graduate, and move on to colleges and the work force.
 
