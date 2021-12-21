@@ -3,7 +3,7 @@
 ![alt text](IMG_1703.jpg)
 # Educational Technology Plan
 
-The purpose of my educational technology plan is to design a diagram for a future **Introduction to Computer Science** course to be taught as an elective for *grade nine*. Currently, freshmen take an Integrated Technology / Career Education hybrid course that touches on the basics of technology.  The idea is that a new computer science course would be an elective course for those students interested in sampling or diving deeper into computer science.
+The purpose of my educational technology plan is to design a diagram for a future **Introduction to Computer Science** course to be taught as an elective for *grade nine*. Currently, freshmen take an Integrated Technology / Career Education hybrid course that touches on the basics of technology.  The idea is that a new computer science course would be an elective course for those students interested in sampling or diving deeper into computer science. As it is an introductory course and equity is important, I will not require a prerequisite in the way of coursework or GPA.
 
 ## Context
 
